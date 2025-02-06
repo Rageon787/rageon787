@@ -1,4 +1,4 @@
-## G'day, I'm Ragav Srinivasan
+## G'day, I'm Ragav Srinivasan 👋🏾
 
 <!--
 **Rageon787/rageon787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
